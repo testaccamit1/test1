@@ -6,6 +6,7 @@
 int main(int argc, char *argv[])
 {
 	printf("Hello World from jenkins build using polling\n");
+	printf("Looks like adding another line doesn't hurts\n");
 	return 0;
 }
 
