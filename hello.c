@@ -1,3 +1,6 @@
+/**
+ * A hello world program
+ **/
 #include <stdio.h>
 
 int main(int argc, char *argv[])
