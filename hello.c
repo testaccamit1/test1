@@ -1,8 +1,11 @@
+/**
+ * A hello world program
+ **/
 #include <stdio.h>
 
 int main(int argc, char *argv[])
 {
-	printf("Hello World from jenkins first pull request\n");
+	printf("Hello World from jenkins build using polling\n");
 	return 0;
 }
 
