@@ -11,5 +11,10 @@ class abc {
     {
         echo $msg;
     }
+    
+    public function Hellooo()
+    {
+        echo "sfaf"
+    }
 
 }
