@@ -16,5 +16,10 @@ class abc {
     {
         echo "sfaf"
     }
+    
+    public functi Helloooooooooooo()
+    {
+        $this->_foo();
+    }
 
 }
