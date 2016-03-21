@@ -19,7 +19,7 @@ class abc {
     
     public functi Helloooooooooooo()
     {
-        $this->_foo();
-    }
+        this->_foo();
+    
 
 }
