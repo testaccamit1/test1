@@ -10,3 +10,7 @@ int main(int argc, char *argv[])
 	return 0;
 }
 
+int myprint(char *s)
+{
+	printf("%s", s);
+}
