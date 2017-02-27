@@ -17,7 +17,7 @@ class abc {
         echo "sfaf"
     }
     
-    public functi Helloooooooooooo()
+    public functi Helloooooooooooo0()
     {
         this->_foo();
     
